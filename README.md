@@ -2,7 +2,4 @@
 A python GUI program to unrar .rar files
 
 #pre requisite
-
-run this command initially
-
-pip install patool
+  To have python installed (preferably Python3.6.X)
